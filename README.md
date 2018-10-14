@@ -36,11 +36,11 @@ To build and run this app locally you will need a few things:
 # Getting started
 - Clone the repository
 ```
-git clone <name of repositry>
+git clone https://github.com/GRAVI1991/CLCodingChallenge.git
 ```
 - Install dependencies
 ```
-cd <project_name>
+cd CLCodingChallenge
 npm install
 ```
 - Configure your mongoDB server
